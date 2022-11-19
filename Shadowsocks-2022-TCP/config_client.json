@@ -59,7 +59,7 @@
                 "servers": [
                     {
                         "address": "",
-                        "port": 50000,
+                        "port": 37799,
                         "method": "2022-blake3-aes-128-gcm",
                         "password": "",
                         "uot": false
